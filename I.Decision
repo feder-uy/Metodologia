@@ -1,0 +1,23 @@
+Propiedades 
+## Agente
+Sujeto~Entidad que decide.
+
+## Grado de creencia
+Grado de creencia, siendo el grado la probabilidad y la creencia la conviccion sobre la posibilidad de que el mundo percibido y posible w es el mundo en el que se habita. 
+
+- Accion
+- Deseo productor / Valor esperado
+- Recursos utilizados
+- Recursos producidos
+- Efectividad
+- Eficiencia
+- Timestamp
+
+## Efectividad
+Calculada con el sistema de prueba de propiedades activas. 
+
+## Eficiencia 
+Calculada con la notacion Big O. 
+
+## Optimalidad 
+Calcular la efectividad y eficiencia.

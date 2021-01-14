@@ -1,0 +1,116 @@
+Los repositorios son los métodos de producción de un determinado tipo de recursos: 
+- `Inteligencia artificial` 
+- `Comunicacion`
+
+Los proyectos son los tipos de movimientos que componen al método:
+- `Direccion`
+- `Expresion de recursos estáticos`
+- `Expresion de recursos dinámicos`
+
+[=] Recursos que invertir: tiempo
+[\] Progresar 
+    [
+        \ Ver en que proyecto de que método decidí invertir el tiempo
+        
+        \ Ir al proyecto del metodo en el que decidi invertir el tiempo
+
+        \ Ver el movimiento a realizar ubicado en la columna `Proyección`
+
+        \ Abrir el Issue
+
+        \ Implementar la decisión expresada
+
+        \ Describir lo percibido
+
+        \ Visualizar
+
+        \ Decidir a que método corresponde la visión evolutiva
+
+        \ Hacer un commit para dicho método
+        
+        \ Añadir la visión en donde corresponda
+        
+        \ En el titulo, expresar una síntesis de la visión
+        
+        \ En la descripcion, expresar una referencia a la o las percepciones en las que se tuvo la visión
+    ]
+
+[\] Recordar
+    [
+        , Voy al historial evolutivo
+        
+        , Elijo el ciclo
+        
+        , Veo la síntesis de la evolución y accedo a las referencias a la percepcion que produjo esa visión
+
+        , Accedo a la percepción y veo todo lo que ocurrió 
+    ]
+
+[^] Proyectar 
+    La proyección ha de ser tratada como un recurso para ver su historial evolutivo
+[\] 
+
+
+
+
+::  Historial evolutivo
+    Recurso del tiempo: movimientos con el mismo. La gestión del tiempo. 
+
+    Recursos: nombre. Proyeccion. Historial evolutivo = registro de progreso. Producción (estado actual).
+
+    En el tiempo gestiono las horas diciendo en que decision inverti el tiempo. A partir de ahi puedo saber que hice en un momento dado.
+
+    En los recursos tengo el historial evolutivo, ahi veo cuando progrese en ese recurso. 
+
+    Para hacer efectivo el progreso las decisiones deben estar proyectadas con antelación, la inversion definida y la producción deseada.
+
+    Cuando decido invertir el tiempo en progresar en un recurso, voy a la proyeccion de ese recurso. Veo el deseo productor y la decision a implementar para hacerlo. La saco de la proyección y la implemento y comienzo a percibir. Cuando termine, agrego eso a su historial evolutivo. Los recursos visualizados los agrego a la produccion. Cuando quiero saber cuando progrese en un recurso lo veo en la produccion y luego en el historial evolutivo. Cuando quiero ver el proximo paso para progresar en un recurso voy a la proyeccion y dado que lo producido lo quité de ahi es que el progreso efectivamente es registrado.
+
+    Incluso la gestión del tiempo la implemento en el calendario. Y el registro de progreso y evolución en github. Lo que hice en cada dia lo veo en la linea de tiempo de Github. A su vez, visualizar Github seran recursos tambien utilizados en la construccion de inteligencia artificial.
+
+    En realidad, al implementar en Github ya no hay que tener un historial evolutivo. Las etapas son: implementacion -> percepcion -> recursos -> evolucion. La evolucion es el commit en el que va el recurso evolucionado. Github encuentra los cambios y los registra en el historial evolutivo en orden cronológico. 
+
+    Cuando quiero visualizar los movimientos que influyeron a un recurso voy al historial evolutivo del recurso. Veo las fechas, entonces con esas fechas voy a las percepciones. Ya no, en el historial evolutivo elijo el ciclo y el a parte de tener una síntesis de la evolucion tiene las referencias a las percepciones. 
+
+    Las guardo junto a los recursos o en un sitio aparte? Cuando voy a progresar en un recurso voy a la proyeccion e implemento la decision que he de implementar. Junto a las decisiones que las produjeron.
+
+    Hay algo que no veo del todo nitido. Si yo estoy percibiendo para X y percibo un recurso Y, que hago? bueno, ese momento en el que implemente una decision y percibi un recurso debe quedar registrado como la percepcion en la que ese recurso se visualizó. Eso lo veo en el historial evolutivo del recurso. Cuando ese recurso se agregó ocurrió una evolución. Esa evolución esta gráficamente representada en Github. A su vez, tiene fecha, por lo cual, con esa fecha, voy a las percepciones y encuentro en que percepción vi ese recurso. Al ver la decision que implemente para tener esa percepción es que recuerdo nitidamente. Porqué implemente esa decision esta declarado en la decisión misma. 
+
+    Con el historial evolutivo automatico, debo solamente concentrarme en actualizar manualmente la produccion de un recurso. En el historial obtendré cuál fue la evolución y cuándo. Con el dato de la fecha, puedo ver las percepciones que tuve para percibir ese recurso. 
+    
+    Cuando yo decido progresar en un determinado recurso puede ocurrir que perciba una evolucion de otro recurso para el cual implemente la decisión. Por lo cual, mis percepciones no pueden estar guardadas por recurso dado que no siempre seran todas para el recurso en el que deseo progresar en ese momento. Lo que si es de cada recurso es su proyección, de eso no hay duda. 
+
+    Entonces, cuando hago el cambio en la produccion del recurso se que Github captará ese cambio y cuando yo visualice el historial evolutivo encontraré que cambio y cuándo, como tambien algunas palabras que haya deseado agregar sobre el cambio. Eso es muy importante. 
+
+        [\] Clasificar los recursos para ponerlos en Github. 
+        [^] Al tenerlos organizados y tener un registro del progreso y a partir de el acceder a ver las percepciones en las que fue producido, lo que queda es la proyección, osea, la organización de los movimientos a realizar para producir en ese recurso.
+
+    Debo decidir lo que quiero producir y luego la decision que lo produce. Estuve viendo rato y rato si las percepciones en los recursos o no, pero me olvidaba del deseo. El deseo es poder ver cuales percepciones produjeron un recurso. Para eso necesito la fecha de la evolucion de un recurso y con dicha fecha ir a las percepciones y ver las percepciones para la fecha en que el recurso evolucionó. 
+
+    Github registra toda mi actividad. Por eso, creo que las percepciones las puedo agregar como comentarios de Pull Request en issues. Los movimientos a realizar pueden ser las issues. A su vez los issues se ponen en los proyectos. Los proyectos son la proyeccion de los recursos. El repositorio es el recurso. Cuando abro un issue comienzo a percibir y desde alli hago los cambios en los demás repositorios. Testearé eso. 
+
+    El principio es corroborar como funciona la actividad registrada por Github. Bueno, lo que produje en un determinado momento esta mas que claro, ya que lo veo por fecha, por grafico y veo exactamente en donde progresé, con un link al recurso en el que progresé. Es increiblemente beneficioso. 
+
+    --> Actividad en Github
+        Para recordar los recursos producidos en un momento dado no habria que ir a las percepciones si no al 
+        registro de actividad en mi perfil de Github. 
+        
+        + Como primer recurso producido, puedo ir directamente al recurso en el que progresé y ver especifcamente cuales progresiones hice (commits) en ese momento, verlo en su ultima versión y si quiero puedo alli mismo acceder a su historial evolutivo y ver las visiones correspondientes a cada ciclo evolutivo. 
+
+        Alli obtengo ordenados cronologicamente todos los movimientos que realizo. Eso significa todas las evoluciones en determinados recursos, incluidas las evoluciones concretas (commits), dandome ademas el link para ir al recurso en su ultima version, dentro del cual a su vez puedo ver el historial evolutivo, en el cual seleccionar cualquier ciclo evolutivo y ver sus diferencias respecto a los otros ciclos, en caso que los hubiese porsupuesto. 
+
+    Ahora, tengo resuelto el recuerdo. Me falta ver como proyectar y luego como implementar y registrar las percecpciones. 
+
+    Me falta la forma de una vez se implemento una decision, osea lo que creo que vendria siendo un issue, donde registro las percepciones, y luego, como relaciono las visiones de esa percepcion con el recurso evolucionado. 
+
+    La proyeccion de movimientos son sin dudas las issues. La proyeccion total sin duda es el proyecto, en el cual ordeno los movimientos. 
+
+        Implementar? Añadir las visiones y relacionarlas desde el historial evolutivo a la percepcion que la produjo independientemente de ser una vision ocurrida en una experiencia con un deseo productor para otro recurso que el que corresponde a la visión?
+
+        Tengo que leer Managing your work on Github. Alli hablan de issues, pull request, projects, etc. Debo esclarecer que es lo que necesito producir al ir a percibir lo alli provisto (https://help.github.com/en/github/managing-your-work-on-github).
+
+    Lo que es un hecho es que esa percepcion de donde puede ocurrir una vision para cualquier recurso ocurrio en una decision proyectada para un determinado recurso. Eso es asi. Ahora, como relacionamos la vision a la percepcion y al recurso que corresponde? Como lo hacia antes? 
+
+    La respuesta puede estar en linkear el issue desde el commit al recurso. En un issue estoy percibiendo y cuando veo algo hago un commit a ese recurso y linkeo a la percepcion. Entonces, desde el historial evolutivo del recurso, puedo ver el ciclo evolutivo (commit) y el link a la percepcion. En la percepcion ver todo el progreso, y en el registro de actividad ver lo que hice antes de ese issue. Puede ir por ahi. 
+
+    Desde la issue percibo y dichas percepciones son visiones que producen un ciclo evolutivo para un determinado recurso. Ese ciclo es un commit para el recurso correspondiente. En el commit se hace una referencia a las percepciones en las cuales se tuvo la visión. 

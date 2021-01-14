@@ -1,0 +1,20 @@
+A traves de analisis de patrones defino decisiones. A traves de prioridades defino el orden. Siendo consciente del tiempo puedo controlarlo. 
+
+Formar las relaciones, como? Por optimalidad. 
+
+# Definir decision
+: Trayectoria / Fundamentos por los que se la eligio
+: Cuando
+: Input
+: Relacion
+: Output deseado 
+: Output producido
+: Optimalidad :: Efectividad y Eficiencia
+
+# Ordenar
+: Disponibilidad de recursos input
+: Prioridad de requisito de recursos output
+: Concurrencia, paralelismo
+	Cuando hay disponibilidad de recursos y la prioridad es suficiente, se producen multiples aplicaciones en simultaneo. 
+
+
